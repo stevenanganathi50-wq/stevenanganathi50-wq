@@ -40,6 +40,6 @@ A responsive catering business website showcasing services and contact features.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://linkedin.com/in/anganathi-steven-089213416
 - Portfolio: https://encryptedinnovators.com
 - Email: anganathindandani733@gmail.com
